@@ -1,4 +1,7 @@
+
 ## Welcome to Darsena Concert
+
+![](images/render1.jpg?raw=true)
 
 You can use the [editor on GitHub](https://github.com/negarkk/DarsenaConcert/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
